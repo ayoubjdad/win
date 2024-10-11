@@ -1,0 +1,37 @@
+.main {
+  background-color: #01e696;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  margin: 0 auto;
+  max-width: 1080px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  padding: 16px 0;
+  width: 64px;
+  height: 64px;
+  border-radius: 60px;
+}
+
+.links {
+  gap: 20px;
+  display: flex;
+  span {
+    font-size: 20px;
+    cursor: pointer;
+    color: #083726;
+    font-weight: 600;
+    line-height: 20px;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  i {
+    font-size: 24px;
+  }
+}
