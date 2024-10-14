@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/win/static/css/main.a3e352ff.css",
+    "main.js": "/win/static/js/main.77379196.js",
+    "static/js/453.fab64890.chunk.js": "/win/static/js/453.fab64890.chunk.js",
+    "static/media/slideOne.png": "/win/static/media/slideOne.b3b55d7d40937558d007.png",
+    "static/media/slideTwo.png": "/win/static/media/slideTwo.c2027237112cc163e76c.png",
+    "static/media/VisbyRoundCF-Heavy.woff": "/win/static/media/VisbyRoundCF-Heavy.5b14967687bb1ecf4295.woff",
+    "static/media/VisbyRoundCF-ExtraBold.woff": "/win/static/media/VisbyRoundCF-ExtraBold.7af9c28edd173e752aa1.woff",
+    "static/media/VisbyRoundCF-Regular.woff": "/win/static/media/VisbyRoundCF-Regular.78ce79eac18796023f1b.woff",
+    "static/media/VisbyRoundCF-Bold.woff": "/win/static/media/VisbyRoundCF-Bold.5ac8e4088f0ff215b47e.woff",
+    "static/media/VisbyRoundCF-Medium.woff": "/win/static/media/VisbyRoundCF-Medium.32100f9a5a772d90674e.woff",
+    "static/media/VisbyRoundCF-DemiBold.woff": "/win/static/media/VisbyRoundCF-DemiBold.ecce87927ba286ccd634.woff",
+    "static/media/VisbyRoundCF-ExtraLight.woff": "/win/static/media/VisbyRoundCF-ExtraLight.fdfe8579f303ae5a1630.woff",
+    "static/media/VisbyRoundCF-Light.woff": "/win/static/media/VisbyRoundCF-Light.1568143245013dfbc033.woff",
+    "index.html": "/win/index.html",
+    "main.a3e352ff.css.map": "/win/static/css/main.a3e352ff.css.map",
+    "main.77379196.js.map": "/win/static/js/main.77379196.js.map",
+    "453.fab64890.chunk.js.map": "/win/static/js/453.fab64890.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e352ff.css",
+    "static/js/main.77379196.js"
+  ]
+}
